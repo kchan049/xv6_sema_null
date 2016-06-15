@@ -13,6 +13,9 @@ xv6 implementation of semaphores/null pointer deref
 
 6. Similarly, you can also type `crash` to test null pointer derefence.  
 
-If you have any questions, you can contact me at `kchan049@ucr.edu`
+If you have any questions, you can contact me at `kchan049@ucr.edu`.
 
+You can also checkout the pdf report for more detailed analysis on this project!
+
+Thanks!
 
